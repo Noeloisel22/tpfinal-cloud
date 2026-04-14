@@ -7,5 +7,6 @@ const today = new Date().toLocaleDateString('fr-FR')
     <p>Nom : Noé Loisel</p>
     <p>Date : {{ today }}</p>
     <p>Build : {{ buildId }}</p>
+    <p>Test modif</p>
   </header>
 </template>
